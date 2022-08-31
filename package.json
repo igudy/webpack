@@ -1,0 +1,14 @@
+{
+  "name": "pizza-webpack-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^3.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igudy",
+  "license": "ISC"
+}
