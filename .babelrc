@@ -1,0 +1,18 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets": {
+                    // Browser that has a market share that's more
+                    // than 1 percent, and then the last two versions
+                    "browsers": ["> 1%", "last 2 versions"]
+                }
+            }
+        ],
+        "@babel/preset-react"
+    ],
+    "plugins": [
+        "@babel/plugin-proposal-class-properties"
+    ]
+}
